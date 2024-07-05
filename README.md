@@ -1,6 +1,6 @@
 # 科研文献管理系统
 
-本系统针对的文献记录来自于http://dblp.uni-trier.de/xml/dblp.xml.gz，能实现的功能如下：\
+本系统针对的文献记录来自于http://dblp.uni-trier.de/xml/dblp.xml.gz，能实现的功能如下：
 <ol>
   <li>
     基本搜索功能。输入作者名，显示该作者发表的所有论文信息。输入完整的论文题目，能展示该论文的其他相关信息\
@@ -24,5 +24,5 @@
     可视化显示。通过图形化界面，展示作者之间合作关系图及其相关文章信息\
   </li>
 </ol>
-其中，GUI使用wxWidgets设计，头文件下载地址为https://www.wxwidgets.org/downloads/\
-功能6中涉及的问题为NP完全问题，为保证在可以接收的时间内输出结果，统计并不完全\
+其中，GUI使用wxWidgets设计，头文件下载地址为https://www.wxwidgets.org/downloads/<br/>
+功能6中涉及的问题为NP完全问题，为保证在可以接收的时间内输出结果，统计并不完全
