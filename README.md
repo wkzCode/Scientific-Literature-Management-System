@@ -1,6 +1,7 @@
 # 科研文献管理系统
 
-本系统针对的文献记录来自于http://dblp.uni-trier.de/xml/dblp.xml.gz，能实现的功能如下：
+本系统针对的文献记录来自于http://dblp.uni-trier.de/xml/dblp.xml.gz<br/>
+能实现的功能如下：
 <ol>
   <li>
     基本搜索功能。输入作者名，显示该作者发表的所有论文信息。输入完整的论文题目，能展示该论文的其他相关信息
